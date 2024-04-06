@@ -1,1 +1,2 @@
-# Detec-o-de-Extra-o-Seletiva-de-Madeira
+# Deteção de Extração Seletiva de Madeira
+
