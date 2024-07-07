@@ -1,6 +1,6 @@
 # **Introdução à Inteligência Artificial via Educação STEM Aplicado à Detecção de Extração Seletiva de Madeira na Floresta Amazônica**
 
-![Abstract]{https://github.com/nathanxavier/Amazon-Rainforest-Selective-Logging-Detection/blob/main/images/Abstract.png?raw=true}
+[Abstract](https://github.com/nathanxavier/Amazon-Rainforest-Selective-Logging-Detection/blob/main/images/Abstract.png?raw=true)
 
 ## ***Códigos:***
 
